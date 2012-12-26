@@ -1,11 +1,11 @@
 {
   "name": "padding-classes-stylus",
   "version": "0.0.0",
-  "description": "CSS variables and classes for container paddings",
+  "description": "CSS variables and classes for element paddings",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "n"
+    "url": "https://github.com/jasonkuhrt/padding-classes-stylus"
   },
   "keywords": [
     "CSS",
