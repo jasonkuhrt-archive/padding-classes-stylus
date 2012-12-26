@@ -1,0 +1,21 @@
+{
+  "name": "padding-classes-stylus",
+  "version": "0.0.0",
+  "description": "CSS variables and classes for container paddings",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "n"
+  },
+  "keywords": [
+    "CSS",
+    "padding",
+    "UI",
+    "layout"
+  ],
+  "author": "Jason Kuhrt",
+  "license": "MIT",
+  "dependencies": {
+    "better-clockhand-stylus": "git://github.com/jasonkuhrt/better-clockhand-stylus.git"
+  }
+}
