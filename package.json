@@ -16,6 +16,6 @@
   "author": "Jason Kuhrt",
   "license": "MIT",
   "dependencies": {
-    "better-clockhand-stylus": "git://github.com/jasonkuhrt/better-clockhand-stylus.git"
+    "shorthand-edge-omissions-stylus": "git://github.com/jasonkuhrt/shorthand-edge-omissions-stylus.git"
   }
 }
