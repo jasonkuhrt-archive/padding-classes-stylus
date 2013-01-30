@@ -1,8 +1,7 @@
 
 
-
 function plugin(stylus) {
-  stylus.use(require('better-clockhand-stylus'));
+  stylus.use(require('shorthand-edge-omissions'));
   stylus.include(__dirname);
 }
 
